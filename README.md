@@ -9,7 +9,7 @@ JDBC API, а потом JdbcTemplate. Теперь реализуем CRUD
 1) Вспомнить CRUD приложение из 27 урока, которое
 использует JdbcTemplate (https://github.com/NeilAlishev/
 SpringCourse/tree/master/Lesson27.SpringJdbcTemplate).
-2)Используя начальный проект SpringHibernateApp из
+2) Используя начальный проект SpringHibernateApp из
 предыдущего урока (https://github.com/NeilAlishev/
 SpringCourse/tree/master/SpringHibernateApp), реализуйте
 недостающие методы из DAO, чтобы CRUD приложение
